@@ -4,7 +4,7 @@ balance = 1000
     
 def main():
     global balance
-    print("Ciao, Benvenuto al Scommettitore")
+    print("Ciao, Benvenuto allo Scommettitore brutto figlio di puttana")
     fine = 1
     while fine != -1:
         scom = bet()
